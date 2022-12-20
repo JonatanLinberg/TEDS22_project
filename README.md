@@ -1,1 +1,1 @@
-# TEDS22_project
+# TEDS22 project
