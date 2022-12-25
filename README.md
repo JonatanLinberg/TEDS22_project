@@ -1,1 +1,1 @@
-# TEDS22 project
+# TEDS22 project: Character Recognition
